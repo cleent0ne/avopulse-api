@@ -10,3 +10,4 @@ pillow==13.0.0
 pydantic==2.14.3
 requests==2.34.2
 aiofiles==24.1.0
+
